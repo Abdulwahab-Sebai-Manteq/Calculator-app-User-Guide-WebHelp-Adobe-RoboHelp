@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ppfml version="2.00" project="Windows 10 Calculator application User Guide" type="4">
+  <contextmap>
+    
+  </contextmap>
+  <topiclist defaulttopic="First_Topic.htm">
+    
+    <topic>
+      Introduction.htm
+    </topic>
+    
+    <topic>
+      Overview.htm
+    </topic>
+    
+    <topic>
+      What_is_Calculator_.htm
+    </topic>
+    
+    <topic>
+      Why_is_Calculator_so_useful_.htm
+    </topic>
+    
+    <topic>
+      What_Calculator_can_do_.htm
+    </topic>
+    
+    <topic>
+      User_interface.htm
+    </topic>
+    
+    <topic>
+      Navigation_menu.htm
+    </topic>
+    
+    <topic>
+      How_to_open_the_navigation_menu_.htm
+    </topic>
+    
+    <topic>
+      History_menu.htm
+    </topic>
+    
+    <topic>
+      How_to_open_the_History_menu_.htm
+    </topic>
+    
+    <topic>
+      Keep_on_top_feature.htm
+    </topic>
+    
+    <topic>
+      Why_is_Keep_on_top_feature_so_handy_and_useful_.htm
+    </topic>
+    
+    <topic>
+      How_to_enable_or_disable_Keep_on_top_feature_.htm
+    </topic>
+    
+    <topic>
+      Store,_change_&amp;_recall_numbers.htm
+    </topic>
+    
+    <topic>
+      How_to_store_a_number_.htm
+    </topic>
+    
+    <topic>
+      How_to_add_to_or_subtract_from_a_previously_saved_number_.htm
+    </topic>
+    
+    <topic>
+      How_can_I_display_the_stored_number_with_any_changes_.htm
+    </topic>
+    
+    <topic>
+      Do_advanced_math.htm
+    </topic>
+    
+    <topic>
+      What_is_the_Scientific_mode_used_for_.htm
+    </topic>
+    
+    <topic>
+      How_to_use_the_Scientific_mode_.htm
+    </topic>
+    
+    <topic>
+      Appendix__Symbols_Table.htm
+    </topic>
+    
+    <topic>
+      First_Topic.htm
+    </topic>
+    
+  </topiclist>
+  <filenamemap>
+    <filenameentry moniker="wh_languagetype">
+      <filename>
+        en_US
+      </filename>
+    </filenameentry>
+    <filenameentry moniker="wh_stoplist">
+      <filename>
+        whxdata/stopwords.xml
+      </filename>
+    </filenameentry>
+    <filenameentry moniker="startpage">
+      <filename>
+        index.htm
+      </filename>
+    </filenameentry>
+        
+  </filenamemap>
+</ppfml>
