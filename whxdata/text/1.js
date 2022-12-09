@@ -1,0 +1,1 @@
+rh._.exports({"0":[[" ","Navigation menu"]],"1":[[" ","Navigation menu"]],"2":[[" ","It contains all the basic and advanced application modes and functions, such as standard, scientific, graphing, programmer, and date calculation modes, in addition to the converter functions."," ","Related Topics:"," ","How to open the navigation menu?"]],"id":"1"})

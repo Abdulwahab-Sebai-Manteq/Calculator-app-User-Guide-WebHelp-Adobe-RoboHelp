@@ -1,0 +1,1 @@
+rh._.exports({"0":[["History menu"]],"1":[[" ","History menu"]],"2":[[" ","It contains all your previous calculations and entries, clicking on one of them will bring it back to the main screen again."," ","Related Topics:"," ","How to open the History menu?"]],"id":"0"})

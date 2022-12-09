@@ -1,0 +1,1 @@
+rh._.exports({"0":[[" ","User interface"]],"1":[[" ","User interface"]],"2":[[" ","The Home ","Calculator"," screen is simple and user-friendly; it gives access to all functions easily with large (ideal for touch screens) buttons for the Numpad."]],"id":"2"})

@@ -1,0 +1,1 @@
+rh._.exports({"0":[[" ","What is the Scientific mode used for?"]],"1":[[" ","What is the Scientific mode used for?"]],"2":[[" ","The ","Scientific"," mode is generally used for more advanced mathematical functions such as trigonometry, exponents, and logarithms."," ","Related Topics:"," ","Do advanced math"," ","How to use the Scientific mode?"]],"id":"3"})

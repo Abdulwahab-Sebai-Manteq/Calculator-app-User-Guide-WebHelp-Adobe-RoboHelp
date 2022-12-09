@@ -1,0 +1,1 @@
+(function() {    var toc =  [{"name":"How to open the navigation menu?","type":"book","tilePath":"","description":"","url":"How_to_open_the_navigation_menu_.htm","key":"toc4"}];    window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });    })();

@@ -1,0 +1,1 @@
+(function() {    var toc =  [{"name":"How to open the History menu?","type":"item","tilePath":"","description":"How to open the History menu?","url":"How_to_open_the_History_menu_.htm"}];    window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });    })();

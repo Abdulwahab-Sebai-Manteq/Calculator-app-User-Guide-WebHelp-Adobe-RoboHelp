@@ -1,0 +1,1 @@
+rh._.exports({"0":[[" ","Do advanced math"]],"1":[[" ","Do advanced math"]],"2":[[" ","For more advanced mathematical operations, the ","Calculator"," comes with a ","Scientific"," mode. "," ","Related Topics:"," ","What is the Scientific mode used for?"," ","How to use the Scientific mode?"]],"id":"4"})
